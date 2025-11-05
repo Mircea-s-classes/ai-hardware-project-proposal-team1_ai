@@ -20,14 +20,10 @@ Identifing specfic humans using facial recognition with Google Coral
 ## 2. Platform Selection
 Google Coral, Edge AI
 
-**Undergraduates:** Edge-AI, TinyML, or Neuromorphic platforms  
-**Graduates:** open-source AI accelerators (Ztachip, VTA, Gemmini, VeriGOOD-ML, NVDLA) or any of the above 
-
 ## 3. Problem Definition
 Describe the AI or hardware design problem you aim to address and its relevance to AI hardware (e.g., efficiency, latency, scalability).
 
 ## 4. Technical Objectives
-List 3–5 measurable objectives with quantitative targets when possible.
 - Use our model to accuratly identify 3 unique faces with an above 80 success rate in normal lighting conditions
 - Maintain an average latency of 500ms from image capture to recognition
 - Maintain a false postive postive rate of less than 2 percent
