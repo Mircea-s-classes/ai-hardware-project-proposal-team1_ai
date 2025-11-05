@@ -31,7 +31,11 @@ Home owners that use Ring cameras want the ability to accuretly identify know pe
 - Maintain a false postive postive rate of less than 2 percent
 
 ## 5. Methodology
-Describe your planned approach: hardware setup, software tools, model design, performance metrics, and validation strategy.
+1) First, we want to use Edge Impulse Studio to train our model and then be able to export it to a TFLite model.
+2) Compile this TFlite model to then be deployed onto our Google Coral Edge TPU.
+3) By plugging in our Coral USB Accelerator, we can then use our laptop's webcam with a pyhton file to install Coral's libraries.
+4) Then we can communicate with the laptop and the TPU to send image data and have the TPU send the results back.
+5) After this, we can measure our quantitative data based on our three points of focus. 
 
 ## 6. Expected Deliverables
 List tangible outputs: 
