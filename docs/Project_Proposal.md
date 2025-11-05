@@ -28,12 +28,25 @@ Describe the AI or hardware design problem you aim to address and its relevance 
 
 ## 4. Technical Objectives
 List 3–5 measurable objectives with quantitative targets when possible.
+- Use our model to accuratly identify 3 unique faces with an above 80 success rate in normal lighting conditions
+- Maintain an average latency of 500ms from image capture to recognition
+- Maintain a false postive postive rate of less than 2 percent
 
 ## 5. Methodology
 Describe your planned approach: hardware setup, software tools, model design, performance metrics, and validation strategy.
 
 ## 6. Expected Deliverables
-List tangible outputs: working demo, GitHub repository, documentation, presentation slides, and final report.
+List tangible outputs: 
+- Working demo:
+    Working demo using Google Coral hardware
+- GitHub repository:
+    All software created and maintained in the Github Repo
+- Documentation:
+    Neccesary documentation to run and excute the software
+- Presentation slides
+    Completed presentation slides by all group members
+- Final report:
+    Completed final report by all group members
 
 ## 7. Team Responsibilities
 List each member’s main role.
