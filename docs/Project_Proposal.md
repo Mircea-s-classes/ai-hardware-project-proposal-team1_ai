@@ -21,9 +21,7 @@ Identifing specfic humans using facial recognition with Google Coral
 Google Coral, Edge AI
 
 ## 3. Problem Definition
-Describe the AI or hardware design problem you aim to address and its relevance to AI hardware (e.g., efficiency, latency, scalability).
-
-Home owners that use Ring cameras want the ability to accuretly identify know persons from unknown persons that are at thier front door. Our group plans to emulate the function of a ring camera by creating an AI program to identify unique faces. This will allow homeowners to be alerted if strangers are at thier door. This project is relvant to AI hardware as it incorperates the importance of latency by quickly identify faces and effeciency by correctly identifying known faces from unknonw strangers.
+Home owners that use Ring cameras want the ability to accuretly identify know persons from unknown persons that are at thier front door. Our group plans to emulate the function of a ring camera by creating an AI program to identify unique faces. This will allow homeowners to be alerted if strangers are at thier door. This project is relvant to AI hardware as it incorperates the importance of latency by quickly identify faces and effeciency by correctly identifying known faces from unkown strangers.
 
 ## 4. Technical Objectives
 - Use our model to accuratly identify 3 unique faces with an above 80 success rate in normal lighting conditions
@@ -51,7 +49,6 @@ List tangible outputs:
     Completed final report by all group members
 
 ## 7. Team Responsibilities
-List each member’s main role.
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
